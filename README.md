@@ -5,7 +5,7 @@ This is a test application and it has no real use, it was created to test and im
 ### Info:
 Deployment target: iOS 11
 
-Development language: Swift
+Development language: Swift 5.0 ⚠️ (this means that Xcode must support Swift 5 to build this project)⚠️
 
 Pods was used: [RealmSwift](https://github.com/realm/realm-cocoa), [SDWebImage](https://github.com/SDWebImage/SDWebImage), [lottie-ios](https://github.com/airbnb/lottie-ios), 
  [Presentr](https://github.com/IcaliaLabs/Presentr), [FacebookCore, FacebookLogin, FacebookShare](https://github.com/facebook/facebook-swift-sdk).
