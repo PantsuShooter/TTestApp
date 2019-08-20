@@ -26,9 +26,9 @@ To run this application, just clone the project or download a ZIP file and run T
 ### To clone
 
 
-bash
+```bash
 $ git clone https://github.com/PantsuShooter/TestApp.git
-
+```
 ## Possible problems
 
 Sometimes launching an application can cause problems with [Cocoapods](https://cocoapods.org/). To work correctly, you need to update them. You can find pods installation instructions at this [link](https://cocoapods.org/).
@@ -38,14 +38,16 @@ Sometimes launching an application can cause problems with [Cocoapods](https://c
 
 ###### Select project folder
 
-bash
+```bash
 $ cd [project folder]
-
+```
 ###### Update pods
 
-bash
+```bash
 $ pod update
+```
 ###### And now you can open the project
 
-bash
+```bash
 $ open TestApp.xcworkspace
+```
